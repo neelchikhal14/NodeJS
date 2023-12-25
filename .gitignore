@@ -4,3 +4,5 @@
 /07-mongodb/node_modules
 /08-refactor-using-mvc-pattern/node_modules
 /09-url-shortner/node_modules
+/10-server-side-rendering-ejs/node_modules
+/11-authentication/node_modules
